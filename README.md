@@ -34,6 +34,8 @@ git submodule update --init --recursive
 
 See [docs/BUILDING.md](docs/BUILDING.md) for build inputs and limitations.
 
+See [docs/NETWORK_DIAGNOSTIC_NOTES.md](docs/NETWORK_DIAGNOSTIC_NOTES.md) for the architecture, feature implementation notes, and recorded test status.
+
 ## Excluded
 
 Firmware packages and extracted firmware files, the Wi-Fi kernel module, compiled device binaries, packet captures, Nmap and Nexmon source trees, ROM images and save files, and personal music are excluded.
