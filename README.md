@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HiBy R1 MP3 Network Diagnostic Tool
 
 An experimental on-device network diagnostics interface for the HiBy R1 music player. The GEOS Cyber menu provides a screen-based front end for network discovery and diagnostic commands.
@@ -41,3 +42,7 @@ Firmware packages and extracted firmware files, the Wi-Fi kernel module, compile
 ## Status
 
 This is an experimental project. The screenshots document observed device behavior. The repository build recipe has not been tested as part of this setup.
+=======
+# Hiby-R1-MP3-Network-Diagnostic-Tool
+This project turned a Hiby-R1 MP3 Player into a multifunctional device that includes network diagnostic tools, gameboy emulator, and keeping its original MP3 software. This repository will focus mostly on the network diagnostic tool integration within the MP3 player. 
+>>>>>>> b05339c343e9f868471890ffe095cdd88b1e25f4
