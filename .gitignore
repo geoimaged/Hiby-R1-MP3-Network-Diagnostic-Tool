@@ -1,0 +1,21 @@
+# Cross-compiled outputs
+app/**/*.o
+app/geos-cyber
+app/geos-dump
+app/geos-mon
+app/capture
+
+# Device data and captured traffic
+*.pcap
+*.pcapng
+*.sav
+*.rom
+*.gb
+
+# Firmware and extracted files
+*.upt
+*.bin
+*.ko
+*.squashfs
+firmware/
+rootfs/
